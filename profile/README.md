@@ -4,15 +4,21 @@
 
 An investigator-led, ophthalmology-centered, multicenter collaborative research network focused on optic neuritis.
 
-ONCRN is currently centered on ophthalmology and neuro-ophthalmology investigators, with cross-disciplinary collaboration incorporated according to specific research needs.
+ONCRN is currently centered on ophthalmologists and neuro-ophthalmologists, working in collaboration with colleagues in neurology, medical imaging, and related disciplines.
 
-ONCRN是由研究者发起、以眼科和神经眼科为核心的视神经炎多中心研究协作网络，根据具体研究问题开展跨学科合作。
+ONCRN是由研究者发起的视神经炎多中心研究协作网络，目前以眼科医生和神经眼科医生为核心，与神经内科、医学影像等相关学科开展协作。
+
+Research priorities include diagnostic criteria, clinical phenotyping, etiological classification, antibody testing, OCT and MRI assessment, acute treatment, and treatment accessibility in optic neuritis.
+
+ONCRN重点关注视神经炎的诊断标准、临床表型、病因分层、抗体检测、OCT与MRI评估、急性期治疗及治疗可及性等问题。
 
 ## Origin / 起源
 
-ONCRN grew out of the multicenter collaboration established through **GX-ICON ([NCT07623252](https://clinicaltrials.gov/study/NCT07623252))**, developing from collaboration among ophthalmology teams at participating centers. GX-ICON participating centers are not a list of formally confirmed ONCRN institutional members.
+ONCRN grew out of the multicenter collaboration established through **GX-ICON ([NCT07623252](https://clinicaltrials.gov/study/NCT07623252))**, developing from collaboration among ophthalmology teams at participating centers.
 
-ONCRN源于GX-ICON多中心研究所形成的协作基础，并在参与中心眼科研究团队既有合作基础上逐步发展建立。GX-ICON参与中心不等同于已确认的ONCRN正式机构成员。
+ONCRN源于GX-ICON多中心研究所形成的协作基础，并在参与中心眼科研究团队既有合作基础上逐步发展建立。
+
+[Current member institutions / 目前成员单位](https://oncrn.github.io/#members)
 
 ## Leadership / 负责人及协调单位
 
