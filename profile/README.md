@@ -18,7 +18,7 @@ ONCRN grew out of the multicenter collaboration established through **GX-ICON ([
 
 ONCRN源于GX-ICON多中心研究所形成的协作基础，并在参与中心眼科研究团队既有合作基础上逐步发展建立。
 
-[Current member institutions / 目前成员单位](https://oncrn.github.io/#members)
+[Current member institutions / 目前成员单位](https://oncrn.org/#members)
 
 ## Leadership / 负责人及协调单位
 
@@ -28,4 +28,4 @@ ONCRN源于GX-ICON多中心研究所形成的协作基础，并在参与中心�
 **Lead and Coordinating Institution:** The First Affiliated Hospital of Guangxi Medical University  
 **牵头及协调单位：** 广西医科大学第一附属医院
 
-**Website / 官方网站:** [oncrn.github.io](https://oncrn.github.io/)
+**Website / 官方网站:** [oncrn.org](https://oncrn.org/)
